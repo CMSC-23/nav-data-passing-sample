@@ -1,6 +1,6 @@
 # data_passing_sample
 
-A new Flutter project.
+Sample app on navigation and passing arguments among screens.
 
 ## Getting Started
 
